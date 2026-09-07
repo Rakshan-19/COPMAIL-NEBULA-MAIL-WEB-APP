@@ -1,4 +1,4 @@
-# ⚡ Copmail — AI-Powered Gmail Copilot & Smart Email Assistant
+# ⚡ Copmail — Copilot+Mail — Your Intelligent AI Email Workspace for Understanding, Organizing, Automating, and Acting on Every Message.
 
 [![TypeScript](https://img.shields.io/badge/TypeScript-5.7-blue.svg?logo=typescript)](https://www.typescriptlang.org/)
 [![React](https://img.shields.io/badge/React-18.3-61dafb.svg?logo=react)](https://react.dev/)
