@@ -204,7 +204,7 @@ Open your terminal or command prompt:
 
 ```bash
 # Clone the repository
-git clone https://github.com/your-username/copmail.git
+git clone https://github.com/Rakshan-19/COPMAIL-NEBULA-MAIL-WEB-APP.git
 cd copmail
 
 # Install all dependencies across root, server, and client with one command:
@@ -293,7 +293,7 @@ Open `http://localhost:5173` in your browser and experience your new AI Email Co
 
 ## 🔒 Security & Privacy Policy
 
-* **Zero Token / Secret Leaking**: All tokens and private secrets reside exclusively on the local backend. They are never sent to the browser and are excluded from Git via `.gitignore`.
+* **Credential protection**:Authentication tokens and private secrets are stored on the backend and excluded from version control through .gitignore. They are not exposed to the browser.
 * **Read-Only Categorization**: Categorizing your emails does not alter, add, or delete Gmail labels in your real account.
 * **Human-in-the-Loop Sending**: AI never sends emails autonomously. You have complete control to edit drafts and click "Send".
 * **Revocable Access**: You can disconnect your Google Account at any time directly from the top-right header with a single click.
