@@ -134,7 +134,7 @@ graph TD
 | :--- | :--- | :--- |
 | **Frontend** | React 18, TypeScript, Vite 6, Tailwind CSS, Lucide Icons | Responsive, ultra-fast 3-pane email interface |
 | **Backend** | Node.js, Express 4, TypeScript, tsx | RESTful API server, token vault, request orchestration |
-| **AI Intelligence** | Google GenAI SDK (`@google/genai`), Gemini 1.5 / 2.0 Flash | Thread summarization, classification, draft replies |
+| **AI Intelligence** | Google GenAI SDK (`@google/genai`), Gemini 2.0 Flash | Thread summarization, classification, draft replies |
 | **Google Cloud** | Googleapis (`v178`), Google OAuth 2.0 PKCE | Secure user authentication, Gmail thread sync, RFC 2822 send |
 | **Utilities** | Concurrently, Dotenv, CORS | Multi-process development runner, config management |
 
